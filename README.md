@@ -9,3 +9,4 @@ deletes contents of C:\Users\%USERNAME%\AppData\Local\Autodesk\Revit\Autodesk Re
 
 https://knowledge.autodesk.com/support/revit-products/troubleshooting/caas/sfdcarticles/sfdcarticles/Unable-to-open-BIM360-cloud-based-models-with-Revit.html
 
+https://github.com/cridder/bim360CacheCleanup/wiki
